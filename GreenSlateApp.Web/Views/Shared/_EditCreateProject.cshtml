@@ -1,0 +1,35 @@
+﻿<h2>@ViewBag.Title</h2>
+
+<p data-bind="text:UserFlag"></p>
+
+<form>
+    <div class="form-group">
+        <label class="control-label" for="FirstName">First Name:</label>
+        <input class="form-control" name="FirstName" id="FirstName" data-bind="value:FirstName, event: {change: flagCreateProjectAsEdited}" />
+    </div>
+    <div class="form-group">
+        <label class="control-label" for="LastName">Last Name:</label>
+        <input class="form-control" name="LastName" id="LastName" data-bind="value:LastName, event: {change: flagCreateProjectAsEdited}" />
+    </div>
+
+    <table class="table table-striped">
+        <tr>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Credits</th>
+            <th><button data-bind="click: addCreateProjectItem" class="btn btn-info btn-xs">Add</button></th>
+        </tr>
+        <tbody data-bind="foreach: CreateProjectItems">
+            <tr>
+                <td class="form-group"><input name="StartDate" class="form-control input-sm" data-bind="attr: {'id': 'StartDate_' + $index()}, value: StartDate, event: {change: flagCreateProjectAsEdited}, hasfocus: true" /></td>
+                <td class="form-group"><input name="EndDate" class="form-control input-sm" data-bind="attr: {'id': 'EndDate_' + $index()}, value: EndDate, event: {change: flagCreateProjectAsEdited}" /></td>
+                <td class="form-group"><input name="Credits" class="form-control input-sm" data-bind="attr: {'id': 'Credits' + $index()}, value: Credits, event: {change: flagCreateProjectAsEdited}" /></td>
+                <td class="form-group"><button class="btn btn-danger btn-xs" data-bind="click: $parent.deleteProjectItem">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><button data-bind="click:save">Save</button></p>
+
+    <p><a href="/" class="btn btn-default btn-sm">&laquo; Back to List</a></p>
+</form>

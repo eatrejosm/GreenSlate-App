@@ -1,0 +1,14 @@
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\GreenSlateApp.DataLayer.dll.config
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\GreenSlateApp.DataLayer.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\GreenSlateApp.DataLayer.pdb
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\GreenSlateApp.Model.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\GreenSlateApp.Model.pdb
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\obj\Debug\GreenSlateApp.DataLayer.csprojAssemblyReference.cache
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\obj\Debug\GreenSlateApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\obj\Debug\GreenSlateApp.DataLayer.csproj.CopyComplete
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\obj\Debug\GreenSlateApp.DataLayer.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.DataLayer\obj\Debug\GreenSlateApp.DataLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.Model\bin\Debug\GreenSlateApp.Model.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.Model\bin\Debug\GreenSlateApp.Model.pdb
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.Model\obj\Debug\GreenSlateApp.Model.csprojAssemblyReference.cache
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.Model\obj\Debug\GreenSlateApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.Model\obj\Debug\GreenSlateApp.Model.dll
+C:\Users\eatre\Desktop\GreenSlateApp\GreenSlateApp.Model\obj\Debug\GreenSlateApp.Model.pdb
