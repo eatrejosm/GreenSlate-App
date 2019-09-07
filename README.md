@@ -2,7 +2,7 @@
 
 This is an ASP.NET application using Entity Framework, MVC,KnockoutJS,Ajax, and jquery validation.
 
-In order to create the seeds to see of the data for this app you have to run these commands on the package manager console. 
+In order to create the seeds to see  the data for this app you have to run these commands on the package manager console. 
 enable-migrations -enableautomaticmigrations (-Force =  if necessary)
 update-database -verbose
 
